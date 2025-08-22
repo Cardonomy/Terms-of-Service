@@ -1,43 +1,43 @@
-Terms of Service
+# Terms of Service
 
 
-Last updated: August 22nd, 2025
+**Last updated: August 22nd, 2025**
 
 Thank you for your interest in Cardonomy (the “Bot”, “Game”, "Service", and “Website”), developed by the Cardonomy team ("we", "us", “our”). To keep the game functional and provide the best possible experience, we collect some necessary data from Discord users (the "User", "you", "they", "their") who interact with the game, as well as from the respective Discord guilds (the "Server(s)") where Cardonomy has been added.
 
 This document outlines:
 
-How we handle your data
-The intended use of our services
-Our membership monetisation policy
-Your rights and responsibilities as a player or server owner
+- How we handle your data
+- The intended use of our services
+- Our membership monetisation policy
+- Your rights and responsibilities as a player or server owner
 
-1. Data We Collect
+**1. Data We Collect**
 To deliver the best experience to both Discord and our players, we collect the following data:
 
-User ID: Your unique Discord account identifier. This links your game progress, card collections, and membership perks to your account.
+**User ID:** Your unique Discord account identifier. This links your game progress, card collections, and membership perks to your account.
 
-Guild ID: Your server’s unique Discord identifier. This stores server-specific settings and VIP perks.
+**Guild ID:** Your server’s unique Discord identifier. This stores server-specific settings and VIP perks.
 
-Channel ID: Your channel’s unique Discord identifier. Used to manage bot permissions and deliver channel-specific features.
+**Channel ID:** Your channel’s unique Discord identifier. Used to manage bot permissions and deliver channel-specific features.
 
-User verification data: Network data transmitted during OAuth2 login to verify identity and enforce rules.
+**User verification data:** Network data transmitted during OAuth2 login to verify identity and enforce rules.
 
-Transaction data: Information provided by payment processors (e.g., Ko-fi, Stripe, PayPal) when you purchase a membership, used for support, fraud prevention, and perk delivery.
+**Transaction data:** Information provided by payment processors (e.g., Ko-fi, Stripe, PayPal) when you purchase a membership, used for support, fraud prevention, and perk delivery.
 
-2. Data We Analyze (But Do Not Store)
+**2. Data We Analyze (But Do Not Store)**
 We may temporarily process:
 
 Discord messages sent to or near the bot, for the purpose of detecting spam, automation abuse, or cheating.
 
 We do not sell or share collected data with third parties.
 
-3. Privacy Requests
+**3. Privacy Requests**
 You may request deletion of your data or raise privacy concerns via:
 📧 cardonomybiz@gmail.com
 or through our official Discord support server. https://discord.gg/v6D8YuezGF 
 
-4. Intended Use of Cardonomy
+**4. Intended Use of Cardonomy**
 Cardonomy is a free-to-play collectible anime card game on Discord. Features include card collecting, pack opening, PvP battles, market trading, coin generation, collection challenges, and cosmetic customization.
 
 You agree to:
@@ -46,7 +46,7 @@ Use the Bot and Services only for their intended purpose
 Comply with Discord’s Terms of Service
 Avoid exploiting bugs, abusing mechanics, or using automation
 
-5. Access to Services
+**5. Access to Services**
 Access to Cardonomy’s services is not guaranteed.
 We may revoke access for reasons including:
 
@@ -57,7 +57,7 @@ Attempting chargebacks or fraud
 
 If access is revoked, all perks, progress, and memberships tied to your account will be lost without compensation, refunds, or credits for unused membership time.
 
-6. Memberships & Monetisation Policy
+**6. Memberships & Monetisation Policy**
 Cardonomy does not sell individual cards, coins, packs, or other in-game items directly for real-world currency.
 
 Instead, we offer optional monthly VIP memberships that may grant temporary gameplay perks, cosmetic enhancements, and/or quality-of-life features. These perks are not transferable, do not imply ownership of any digital goods, and are intended solely for enhancing gameplay within Cardonomy.
@@ -72,7 +72,7 @@ Chargebacks, refunds, or payment reversals may result in permanent loss of acces
 
 If your access is revoked, you will lose all associated perks immediately, regardless of remaining subscription time, and will not receive any refund, credit, or compensation.
 
-7. No Guarantees
+**7. No Guarantees**
 We do not guarantee:
 
 Uninterrupted service
