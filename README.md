@@ -4,7 +4,7 @@ This repository hosts the official **Terms of Service** and **Privacy Policy** f
 
 ## 📜 Terms of Service & Privacy Policy
 You can view the full document here:  
-➡️ [Terms of Service & Privacy Policy.md](Terms of Service & Privacy Policy.md)
+➡️ [TERMS.md](TERMS.md)
 
 ## ℹ️ About Cardonomy
 Cardonomy is a Discord bot that lets players:
